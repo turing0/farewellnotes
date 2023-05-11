@@ -74,7 +74,7 @@ export default function Unseal() {
               )}
             </div>
           ) : null}
-          <pre className="px-4 py-3 mt-8 font-mono text-left bg-transparent border rounded border-zinc-600 focus:border-zinc-100/80 focus:ring-0 sm:text-sm text-zinc-100">
+          <pre className="px-4 py-3 mt-8 font-mono text-left bg-transparent border rounded border-zinc-600 focus:border-zinc-100/80 focus:ring-0 sm:text-sm text-zinc-100" style={{ wordWrap: "break-word" }>
             <div className="flex items-start px-1 text-sm">
               <div aria-hidden="true" className="pr-4 font-mono border-r select-none border-zinc-300/5 text-zinc-700">
                 {Array.from({
