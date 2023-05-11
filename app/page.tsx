@@ -22,7 +22,9 @@ export default function Home() {
             Share Environment Variables Securely
           </h1>
           <p className="mt-6 leading-5 text-zinc-600 sm:text-center">
-            Your document is encrypted in your browser before being stored for a limited period of time and read
+          A place where you can leave meaningful messages to your loved ones in case of unexpected events. Take the time to write down your thoughts, feelings, and important information that you want to pass on to your family and friends. By doing so, you can ensure that your voice will be heard even if you're not here anymore. Sign up today and start creating your legacy of love.
+          
+          Your document is encrypted in your browser before being stored for a limited period of time and read
             operations. Unencrypted data never leaves your browser.
           </p>
           <div className="flex flex-col justify-center gap-4 mx-auto mt-8 sm:flex-row sm:max-w-lg ">
