@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div>
           <h1 className="py-4 text-5xl font-bold tracking-tight text-center text-transparent bg-gradient-to-t bg-clip-text from-zinc-100/50 to-white sm:text-7xl">
-            Share Environment Variables Securely
+          Leave A Notes For Your Loved Ones
           </h1>
           <p className="mt-6 leading-5 text-zinc-600 sm:text-center">
           A place where you can leave meaningful messages to your loved ones in case of unexpected events. Take the time to write down your thoughts, feelings, and important information that you want to pass on to your family and friends. By doing so, you can ensure that your voice will be heard even if you're not here anymore. Start creating your legacy of love!
